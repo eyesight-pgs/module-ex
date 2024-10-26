@@ -1,0 +1,6 @@
+[submodule "module-ex-auth"]
+	path = module-ex-auth
+	url = git@github.com:eyesight-pgs/module-ex-auth.git
+[submodule "module-ex-common-utils"]
+	path = module-ex-common-utils
+	url = git@github.com:eyesight-pgs/module-ex-common-utils.git
