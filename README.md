@@ -11,3 +11,7 @@ In this repo,
 - module-ex - main service
 - module-ex-auth - a module (a separate repo, earlier we used create private npm package for this. now its a git submodule)
 - module-ex-logger - another module
+
+## TODO
+- branching strategy to deploy to dev, qa, uat, prod environments
+- hot fix for prod
